@@ -23,3 +23,4 @@ python yara-gen.py sample.exe -o report.yar
 
 - `requests`
 - `xxd`, `strings`, `file`, `shasum`
+- `Ollama`
